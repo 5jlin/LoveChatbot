@@ -7,7 +7,7 @@
 然後輸出該問題之PTT回文<br>
 doc2vecgetmodel.py 是用來訓練doc2vec model <br>
 
-執行 chat.py<br>
+聊天的話要執行 chat.py<br>
 網頁版長這樣<p>
 ![image](https://github.com/5jlin/LoveChatbot/blob/master/web_version.PNG)<p>
 不過我手邊沒有網頁的程式，所以clone下來執行後會長這樣<p>
