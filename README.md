@@ -7,7 +7,7 @@
 然後輸出該問題之PTT回文<br>
 
 執行 chat.py<br>
-網頁版長這樣<br>
-![image](https://github.com/5jlin/LoveChatbot/blob/master/web_version.PNG)<br>
-不過我手邊沒有網頁的程式，所以clone下來執行後會長這樣<br>
+網頁版長這樣<p>
+![image](https://github.com/5jlin/LoveChatbot/blob/master/web_version.PNG)<p>
+不過我手邊沒有網頁的程式，所以clone下來執行後會長這樣<p>
 ![image](https://github.com/5jlin/LoveChatbot/blob/master/text_version.PNG)
